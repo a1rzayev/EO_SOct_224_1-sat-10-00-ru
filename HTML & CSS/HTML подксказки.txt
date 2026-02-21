@@ -35,3 +35,11 @@ HTML[HyperText Markup Language] - язык разметки(потому что 
 <i></i>(italic) - курсивный текст
 
 <u></u>(underlined) - подчёркнутый текст
+
+<ul></ul>(unordered list) - маркированный список
+
+<ol></ol>(ordered list) - нумерованный список
+
+<li></li>(list item) - элемент списка
+
+<a></a> - ссылка на другую страницу
