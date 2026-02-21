@@ -1,0 +1,48 @@
+/* стили id(идентификаторов) */
+#asif_muellim {
+    font-style: oblique;
+    font-size: 30px;
+}
+
+#atilla {
+    font-style: italic;
+    font-size: 25px;
+}
+
+/* стили классов */
+.teacher{
+    background-color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.student{
+    background-color: darkgoldenrod;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* стили тегов */
+h1 {
+    background-color: brown;
+    color: azure;
+}
+
+span {
+    background-color: brown;
+    color: azure;
+}
+
+p {
+    font-size: 20px;
+}
+
+div {
+    background-color: blue;
+}
+
+span {
+    background-color: red;
+}
+
+/* относится ко всем элементам */
+* {
+    color: rgb(62, 11, 49) 
+}
